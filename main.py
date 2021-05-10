@@ -6,7 +6,7 @@ import time
 # SCREEN SETUP
 import turtle
 my_window = turtle.Screen() 
-my_window.bgcolor("navy")      
+my_window.bgcolor("goldenrod")      
 color(800, 500)
 print("\n \n Turtle Race")
 color("chocolate")
