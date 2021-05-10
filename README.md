@@ -20,7 +20,10 @@ A racing game!
 
 > `Pink Turtle: Backspace Key`
 
-> `Brown Turtlw: ht Arrow Key`
+> `Yellow Turtle: Enter Key`
+
+> `Brown Turtle: Right Arrow Key`
+
 > 
 
 
